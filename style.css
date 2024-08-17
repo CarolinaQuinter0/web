@@ -1,0 +1,18 @@
+body{
+    background-color: salmon;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.contenedor {
+    display: flex; 
+    flex-direction: row-reverse; 
+    align-items: center; 
+  }
+  .imagen-lado {
+    width: 200px; 
+    height: auto;
+    float: left;
+    margin-right: 20px; 
+  }
